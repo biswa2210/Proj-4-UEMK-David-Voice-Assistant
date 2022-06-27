@@ -1,0 +1,11 @@
+--------------------------------------------------------->
+List of Total Works
+---------------------------------------------------------->
+1.Date&Time
+2.Day
+3.Search about any person or thing in wikipedia
+4.Search in google
+5.Search in youtube and play video
+6.Search a place in google maps and give us the distance from my location to that place also tell us the city state and country of that place.
+7.Give us temperature of an location
+8.Set alarm

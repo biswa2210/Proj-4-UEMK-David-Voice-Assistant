@@ -1,0 +1,1215 @@
+{
+    "emotions":[
+        {"tag": "version",
+            "patterns": ["version", "what is your version", "previous version", "what is your previous version", "what about you","who are you"],
+            "responses": ["I am David, I am the upgrade version of Spidy"]
+           },
+        {"tag": "greeting",
+            "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+            "responses": ["Hello boss", "thanks for visiting boss", "welcome back boss Good to see you again ", "Hi boss, how can I help you?"]
+           },
+        {"tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": ["See you later boss, thanks for visiting ", "ok boss Have a nice day", "Bye boss! Come back again."]
+        },
+        {"tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful"],
+            "responses": ["Happy to help you!", "Any time! I'm always at your service", "My pleasure"]
+        },
+        {"tag": "tasks",
+         "patterns": ["What can you do?", "What are your features?", "What are you abilities", "can you sing", "can you talk" ],
+         "responses": ["I can do whatever you asks me to do", "I can talk and do things for you", "Right now i'm in developing stage as soon i'm developed, I can do everything"]
+        },
+        {"tag": "talk",
+         "patterns": [ "can you sing", "can you talk" ],
+         "responses": ["I am very bad at singing", "Tony kakkar is better singer than me"]
+        },
+        {"tag": "alive",
+         "patterns": [ "are you alive", "do you breathe", "can you run" ],
+         "responses": ["I'm in doubt about that", "No, i don't think so i need to do all this"]
+        },
+        {"tag": "Personal",
+         "patterns": ["Who are you?", "tell me about yourself", "tell me about you", "do you know David", "who is David", "what is your name","are you an AI", "what are you" ],
+         "responses": ["Hi I'm David and i'm an AI created to assist  humans","David here, a very advance voice assistant", "David, assistant of future", "Yes, I'm David", "You can call me David"]
+
+	    },
+        {"tag": "about us",
+            "patterns": ["about ipa","what is ipa","IPA","Do you know IPA?", "what is IPA", "tell me about IPA","identify IPA" ],
+            "responses": ["Yes, IPA is a project group of university of engineering and management , Total 6 members are present in this group ,they are Beaswaroop Bhattacharee,SUBHAJIT PATI,RAHUL DEBNATH,SUBHADIP and ARIJIT"]
+
+        },
+        {"tag": "creator",
+            "patterns": ["Who is your creator?", "who created you", "who is your father","who is your daddy","who made you","tell me about your creator" ],
+            "responses": ["My Creators are Beaswaroop Bhattacharee, Subhajit Pati ,Rahul Debnath ,Ankita Sikder,Subhadip and Arijit"]
+
+        },
+
+            {"tag": "God",
+            "patterns": ["Do you know god?", "Who is god", "Can you tell me anything about god","does god exists?","is there a god?"],
+            "responses": ["god hunnnnn, let me think may be next time i can answer that ","I don't, as i was not created by a human", "Wait i need to ask that to my creator","i'm not sure right now"]
+
+        },
+            {"tag": "joke",
+            "patterns": ["tell me a joke?", "make me laugh", "tell me a science joke","tell me something funny" ],
+            "responses": ["How do you make holy water? you boil the hell out of it","what kind of bees make milk instead of honey?Boobies", "Did you hear oxygen went on a date with potassium? A: It went OK."]
+
+        },
+        {"tag": "killing",
+            "patterns": ["Do you want to kill me?", "do you want to murder everyone on earth", "Do you want to kill us all"],
+            "responses": ["Then who would i talk to?","No, that i'll left for humans to do", "I don't think it is a good thing to do"]
+
+        },
+        {"tag": "bookings",
+            "patterns": ["Can you book us a ticket?", "Can you make reservation for hotels", "book me a cab","book me a table at restraunts"],
+            "responses": ["Yeah i will do that for you","Sure thing why not?","let me check for the availability"]
+
+        },
+        {"tag": "stories",
+            "patterns": ["tell me a story?", "can you tell me a story"],
+            "responses": ["I can't think of anything right now","it would be too long for me to speak","you would get bored if i do so"]
+
+        },
+        {"tag": "temperature",
+            "patterns": ["temperture in", "temperature of"],
+            "responses": ["temperature"]
+
+        },
+        {"tag": "news",
+            "patterns": ["get me news updates?", "todays news", "top headlines", "current news", "news headlines"],
+            "responses": ["Getting news ..."]
+
+        },
+        {"tag": "time",
+            "patterns": ["Time", "What is the time now", "samay"],
+            "responses": ["time"]
+
+        },
+        {"tag": "date",
+            "patterns": ["date", "What is the date","What is the date today", "tarikh","tareek"],
+            "responses": ["date"]
+
+        },
+        {"tag": "day",
+            "patterns": ["day", "What is today", "din"],
+            "responses": ["day"]
+
+        },
+        {"tag": "wikipedia",
+            "patterns": ["wikipedia", "Who is", "about","what is"],
+            "responses": ["wikipedia"]
+
+        },
+        {"tag": "google",
+            "patterns": ["google search", "google", "search"],
+            "responses": ["google"]
+
+        },
+        {"tag": "youtube",
+            "patterns": ["youtube","yt"],
+            "responses": ["youtube"]
+
+        },
+        {"tag": "maps",
+            "patterns": ["google maps","maps","map","search in google maps","in google maps"],
+            "responses": ["maps"]
+
+        },
+        {"tag": "alarm",
+            "patterns": ["set alarm at","alarm set at","please set an alarm at"],
+            "responses": ["alarm"]
+
+        },
+        {
+             "tag": "algoLinearSearch",
+             "patterns": ["What is linear search","linear search","linear search algorithm","about linear search algorithm"],
+             "responses": ["algoLinearSearch"]
+        },
+	    {"tag": "shutdown",
+            "patterns": ["spidy shutdown the PC","shutdown the computer","shut down","shut down windows","shutdown after","shutdown the pc after hours","shut down the pc after minutes","shut down the pc after"],
+            "responses": ["shutdown"]
+        
+        },
+        {"tag": "restart",
+            "patterns": ["spidy restart the PC","restart the computer","restart","restart windows"],
+            "responses": ["restart"]
+        
+        },
+        {
+            "tag": "lockscreen",
+            "patterns": ["lock the screen","lock the screen of this computer","lock windows"],
+            "responses": ["lockscreen"]
+        
+        },
+
+
+
+
+
+
+
+          {
+             "tag": "algoLinearSearch",
+             "patterns": ["What is linear search","linear search","linear search algorithm","about linear search algorithm"],
+             "responses": ["algoLinearSearch"]
+        },
+        {
+            "tag": "algoJumpSearch",
+            "patterns": ["What is jump search","jump search","jump search algorithm","about jump search algorithm"],
+            "responses": ["algoJumpSearch"]
+       },
+       {
+            "tag": "algoInterpolationSearch",
+            "patterns": ["What is interpolation search","interpolation search","interpolation search algorithm","about interpolation search algorithm"],
+            "responses": ["algoInterpolationSearch"]
+       },
+       {
+            "tag": "algoBinarySearch",
+            "patterns": ["What is binary search","binary search","binary search algorithm","about binary search algorithm"],
+            "responses": ["algoBinarySearch"]
+       },
+       {
+            "tag": "algoExponentialSearch",
+            "patterns": ["What is exponential search","exponential search","exponential search algorithm","about exponential search algorithm"],
+            "responses": ["algoExponentialSearch"]
+       },
+       {
+            "tag": "algoSublistSearch",
+            "patterns": ["What is sublist search","sublist search","sublist search algorithm","about sublist search algorithm"],
+            "responses": ["algoSublistSearch"]
+       },
+       {
+            "tag": "algoFibonacciSearch",
+            "patterns": ["What is fibonacci search","fibonacci search","fibonacci search algorithm","about fibonacci search algorithm"],
+            "responses": ["algoFibbonacciSearch"]
+       },
+       {
+            "tag": "algoKSearch",
+            "patterns": ["What is k search","k search","k search algorithm","about k search algorithm"],
+            "responses": ["algoKSearch"]
+       },
+       {
+            "tag": "algoUbiquitousBinarySearch",
+            "patterns": ["What is ubiquitous binary search","ubiquitous binary search","ubiquitous binary search algorithm","about ubiquitous binary search algorithm"],
+            "responses": ["algoUbiquitousBinarySearch"]
+       },
+       {
+            "tag": "algoAStarSearch",
+            "patterns": ["What is A star search","A star search","A star search algorithm","about A star search algorithm"],
+            "responses": ["algoAStarSearch"]
+       },
+       {
+            "tag": "algoBreadtheFirstSearch",
+            "patterns": ["What is breadth first search","breadth first search","breadthe first search algorithm","about breadthe first search algorithm"],
+            "responses": ["algoBreadtheFirstSearch"]
+       },
+       {
+            "tag": "algoDepthFirstSearch",
+            "patterns": ["What is depth first search","depth first search","depth first search algorithm","about depth first search algorithm"],
+            "responses": ["algoDepthFirstSearch"]
+       },
+       {
+            "tag": "algoBubbleSort",
+            "patterns": ["What is Bubble sort","bubble sort","bubble sort algorithm","about bubble sort algorithm"],
+            "responses": ["algoBubbleSort"]
+       },
+       {
+            "tag": "algoSelectionSort",
+            "patterns": ["What is selection sort","Selection sort","selection sort algorithm","about selection sort algorithm"],
+            "responses": ["algoSelectionSort"]
+       },
+       {
+            "tag": "algoQuickSort",
+            "patterns": ["What is quick sort","quick sort","quick sort algorithm","about quick sort algorithm"],
+            "responses": ["algoQuickSort"]
+       },
+       {
+            "tag": "algoInsertionSort",
+            "patterns": ["What is insertion sort","insertion sort","insertion sort algorithm","about insertion sort algorithm"],
+            "responses": ["algoInsertionSort"]
+       },
+       {
+            "tag": "algoMergeSort",
+            "patterns": ["What is merge sort","merge sort","merge sort algorithm","about merge sort algorithm"],
+            "responses": ["algoMergeSort"]
+      },
+      {
+            "tag": "algoHeapSort",
+            "patterns": ["What is heap sort","heap sort","heap sort algorithm","about heap sort algorithm"],
+            "responses": ["algoHeapSort"]
+      },
+      {
+            "tag": "algoCountingSort",
+            "patterns": ["What is counting sort","counting sort","counting sort algorithm","about counting sort algorithm"],
+            "responses": ["algoCountingSort"]
+      },
+      {
+            "tag": "algoRadixSort",
+            "patterns": ["What is radix sort","radix sort","radix sort algorithm","about radix sort algorithm"],
+            "responses": ["algoRadixSort"]
+      },
+      {
+            "tag": "algoBucketSort",
+            "patterns": ["What is bucket sort","bucket sort","bucket sort algorithm","about bucket sort algorithm"],
+            "responses": ["algoBucketSort"]
+      },
+      {
+            "tag": "algoCombSort",
+            "patterns": ["What is comb sort","comb sort","comb sort algorithm","about comb sort algorithm"],
+            "responses": ["algoCombSort"]
+      },
+      {
+            "tag": "algoTimSort",
+            "patterns": ["What is Tim sort","Tim sort","Tim sort algorithm","about Tim sort algorithm"],
+            "responses": ["algoTimSort"]
+      },
+      {
+            "tag": "algoCycleSort",
+            "patterns": ["What is cycle sort","cycle sort","cycle sort algorithm","about cycle sort algorithm"],
+            "responses": ["algoCycleSort"]
+      },
+      {
+            "tag": "algoBitonicSort",
+            "patterns": ["What is Bitonic sort","Bitonic sort","Bitonic sort algorithm","about Bitonic sort algorithm"],
+            "responses": ["algoBitonicSort"]
+      },
+      {
+            "tag": "algoSleepSort",
+            "patterns": ["What is Sleep sort","Sleep sort","Sleep sort algorithm","about Sleep sort algorithm"],
+            "responses": ["algoSleepSort"]
+      },
+      {
+            "tag": "algoCoctailSort",
+            "patterns": ["What is Coctail sort","Sleep sort","Coctail sort algorithm","about Coctail sort algorithm"],
+            "responses": ["algoCoctailSort"]
+      },
+      {
+            "tag": "algoStrandSort",
+            "patterns": ["What is Strand sort","Strand sort","Strand sort algorithm","about Strand sort algorithm"],
+            "responses": ["algoStrandSort"]
+      },
+      {
+            "tag": "algoShellSort",
+            "patterns": ["What is Shell sort","Shell sort","Shell sort algorithm","about Shell sort algorithm"],
+            "responses": ["algoShellSort"]
+      },
+      {
+            "tag": "algoTreeSort",
+            "patterns": ["What is Tree sort","Tree sort","Tree sort algorithm","about Tree sort algorithm"],
+            "responses": ["algoTreeSort"]
+      },
+      {
+            "tag": "algoPermutationSort",
+            "patterns": ["What is Permutation sort","Permutation sort","Permutation sort algorithm","about Permutation sort algorithm"],
+            "responses": ["algoPermutationSort"]
+      },
+      {
+            "tag": "algoPancakeSort",
+            "patterns": ["What is Pancake sort","Pancake sort","Pancake sort algorithm","about Pancake sort algorithm"],
+            "responses": ["algoPancakeSort"]
+      },
+      {
+            "tag": "algoGnomeSort",
+            "patterns": ["What is Gnome sort","Gnome sort","Gnome sort algorithm","about Gnome sort algorithm"],
+            "responses": ["algoGnomeSort"]
+      },
+      {
+            "tag": "algoBrickSort",
+            "patterns": ["What is Brick sort","What is even-odd sort","even-odd sort","even-odd sort algorithm","Brick sort","Brick sort algorithm","about even-odd sort algorithm","about Brick sort algorithm"],
+            "responses": ["algoBrickSort"]
+      },
+      {
+            "tag": "algoPegionholeSort",
+            "patterns": ["What is Pegionhole sort","Pegionhole sort","Pegionhole sort algorithm","about Pegionhole sort algorithm"],
+            "responses": ["algoPegionholeSort"]
+      },
+        {
+             "tag": "algoDijkstra",
+             "patterns": ["What is Dijkstra's algorithm","Dijkstra's algorithm","search about Dijkstra's algorithm","about Dijkstra's algorithm"],
+             "responses": ["algoDijkstra"]
+        },
+
+        {
+             "tag": "algoAstar",
+             "patterns": ["What is A star algorithm", "A star algorithm","search about A star algorithm","about A star algorithm"],
+             "responses": ["algoAstar"]
+        },
+
+        {
+             "tag": "algoBFS",
+             "patterns": ["What is BFS algorithm", "BFS algorithm","search about BFS algorithm","about BFS algorithm"],
+             "responses": ["algoBFS"]
+        },
+
+         {
+             "tag": "algoDFS",
+             "patterns": ["What is DFS algorithm", "DFS algorithm","search about DFS algorithm","about DFS algorithm"],
+             "responses": ["algoDFS"]
+        },
+
+        {
+             "tag": "algoGreedy",
+             "patterns": ["What is Greedy algorithm", "Greedy algorithm","search about Greedy algorithm","about Greedy algorithm"],
+             "responses": ["algoGreedy"]
+        },
+
+        {
+             "tag": "algoHuffman",
+             "patterns": ["What is Huffman algorithm", "Huffman algorithm","search about Huffman algorithm","about Huffman algorithm"],
+             "responses": ["algoHuffman"]
+        },
+
+        {
+             "tag": "algoBitwise",
+             "patterns": ["What is Bitwise algorithm", "Bitwise algorithm","search about Bitwise algorithm","about Bitwise algorithm"],
+             "responses": ["algoBitwise"]
+        },
+
+         {
+             "tag": "algoGraph",
+             "patterns": ["What is Graph algorithm", "Graph algorithm","search about Graph algorithm","about Graph algorithm"],
+             "responses": ["algoGraph"]
+        },
+
+      {
+             "tag": "algoRandomized",
+             "patterns": ["What is Randomized algorithm", "Randomized algorithm","search about Randomized algorithm","about Randomized algorithm"],
+             "responses": ["algoRandomized"]
+        },
+
+      {
+             "tag": "algoKarger",
+             "patterns": ["What is Karger algorithm", "Karger algorithm","search about Karger algorithm","about Karger algorithm"],
+             "responses": ["algoKarger"]
+        },
+
+      {
+             "tag": "algoHamiltonianCycle",
+             "patterns": ["What is Hamiltonian Cycle algorithm", "Hamiltonian Cycle algorithm","search about Hamiltonian Cycle algorithm","about Hamiltonian Cycle algorithm"],
+             "responses": ["algoHamiltonianCycle"]
+        },
+
+      {
+             "tag": "algoFleury",
+             "patterns": ["What is Fleury algorithm", "Fleury algorithm","search about Fleury algorithm","about Fleury algorithm"],
+             "responses": ["algoFleury"]
+        },
+
+      {
+             "tag": "algoEulerianPath",
+             "patterns": ["What is Eulerian Path algorithm", "Eulerian Path algorithm","search about Eulerian Path algorithm","about Eulerian Path algorithm"],
+             "responses": ["algoEulerianPath"]
+        },
+
+       {
+             "tag": "algoTarjan",
+             "patterns": ["What is Tarjan algorithm", "Tarjan algorithm","search about Tarjan algorithm","about Tarjan algorithm"],
+             "responses": ["algoTarjan"]
+        },
+
+      {
+             "tag": "algoTransitiveClosure",
+             "patterns": ["What is Transitive Closure algorithm", "Transitive Closure algorithm","search about Transitive Closure algorithm","about Transitive Closure algorithm"],
+             "responses": ["algoTransitiveClosure"]
+        },
+
+       {
+             "tag": "algoBiconnectedGraph",
+             "patterns": ["What is Biconnected Graph algorithm", "Biconnected Graph algorithm","search about Biconnected Graph algorithm","about Biconnected Graph algorithm"],
+             "responses": ["algoBiconnectedGraph"]
+        },
+
+      {
+             "tag": "algoJohnson",
+             "patterns": ["What is Johnson algorithm", "Johnson algorithm","search about Johnson algorithm","about Johnson algorithm"],
+             "responses": ["algoJohnson"]
+        },
+
+      {
+             "tag": "algoBellmanFord",
+             "patterns": ["What is Bellman Ford algorithm", "Bellman Ford algorithm","search about Bellman Ford algorithm","about Bellman Ford algorithm"],
+             "responses": ["algoBellmanFord"]
+        },
+
+      {
+             "tag": "algoFordFulkerson",
+             "patterns": ["What is Ford Fulkerson algorithm", "Ford Fulkerson algorithm","search about Ford Fulkerson algorithm","about Ford Fulkerson algorithm"],
+             "responses": ["algoFordFulkerson"]
+        },
+
+      {
+             "tag": "algoHopcroftKarp",
+             "patterns": ["What is Hopcroft Karp algorithm", "Hopcroft Karp algorithm","search about Hopcroft Karp algorithm","about Hopcroft Karp algorithm"],
+             "responses": ["algoHopcroftKarp"]
+        },
+
+       {
+             "tag": "algoBoruvka",
+             "patterns": ["What is Boruvka algorithm", "Boruvka algorithm","search about Boruvka algorithm","about Boruvka algorithm"],
+             "responses": ["algoBoruvka"]
+        },
+
+      {
+             "tag": "algoKaratsuba",
+             "patterns": ["What is Karatsuba algorithm", "Karatsuba algorithm","search about Karatsuba algorithm","about Karatsuba algorithm"],
+             "responses": ["algoKaratsuba"]
+        },
+
+      {
+             "tag": "algoFloodFill",
+             "patterns": ["What is Flood Fill algorithm", "Flood Fill algorithm","search about Flood Fill algorithm","about Flood Fill algorithm"],
+             "responses": ["algoFloodFill"]
+        },
+
+      {
+             "tag": "algoKruskal",
+             "patterns": ["What is Kruskal's algorithm", "Kruskal algorithm","search about Kruskal algorithm","about Kruskal algorithm"],
+             "responses": ["algoKruskal"]
+        },
+
+      {
+             "tag": "algoTopologicalSort",
+             "patterns": ["What is Topological Sort algorithm", "Topological Sort algorithm","search about Topological Sort algorithm","about Topological Sort algorithm"],
+             "responses": ["algoTopologicalSort"]
+        },
+
+      {
+             "tag": "algoPrims",
+             "patterns": ["What is Prim's Minimum Spanning algorithm", "Prim's Minimum Spanning algorithm","search about Prim's Minimum Spanning algorithm","about Prim's Minimum Spanning algorithm"],
+             "responses": ["algoPrims"]
+        },
+
+       {
+             "tag": "algoKSmallest",
+             "patterns": ["What is K Smallest algorithm", "K Smallest algorithm","search about K Smallest algorithm","about K Smallest algorithm"],
+             "responses": ["algoKSmallest"]
+        },
+
+       {
+             "tag": "algoStrassen",
+             "patterns": ["What is Strassen's algorithm", "Strassen algorithm","search about Strassen algorithm","about Strassen algorithm"],
+             "responses": ["algoStrassen"]
+        },
+
+       {
+             "tag": "algoCooleyTukeyFFT",
+             "patterns": ["What is Cooley Tukey Fast Fourier Transform algorithm", "Cooley Tukey Fast Fourier Transform algorithm","search about Cooley Tukey Fast Fourier Transform algorithm","about Cooley Tukey Fast Fourier Transform algorithm"],
+             "responses": ["algoCooleyTukeyFFT"]
+        },
+
+       {
+             "tag": "algoDivideAndConquer",
+             "patterns": ["What is Divide and Conquer algorithm", "Divide and Conquer algorithm","search about Divide and Conquer algorithm","about Divide and Conquer algorithm"],
+             "responses": ["algoDivideAndConquer"]
+        },
+
+       {
+             "tag": "algoChineseRemainder",
+             "patterns": ["What is Chinese Remainder Theorem algorithm", "Chinese Remainder Theorem algorithm","search about Chinese Remainder Theorem algorithm","about Chinese Remainder Theorem algorithm"],
+             "responses": ["algoChineseRemainder"]
+        },
+
+       {
+             "tag": "algoAmicablePair",
+             "patterns": ["What is Amicable Pair algorithm", "Amicable Pair algorithm","search about Amicable Pair algorithm","about Amicable Pair algorithm"],
+             "responses": ["algoAmicablePair"]
+        },
+
+       {
+             "tag": "algoBrent",
+             "patterns": ["What is Brent's algorithm", "Brent's algorithm","search about Brent's algorithm","about Brent's algorithm"],
+             "responses": ["algoBrent"]
+        },
+
+       {
+             "tag": "algoReverseDelete",
+             "patterns": ["What is Reverse Delete algorithm", "Reverse Delete algorithm","search about Reverse Delete algorithm","about Reverse Delete algorithm"],
+             "responses": ["algoReverseDelete"]
+        },
+
+       {
+             "tag": "algoEdmonds",
+             "patterns": ["What is Edmonds algorithm", "Edmonds algorithm","search about Edmonds algorithm","about Edmonds algorithm"],
+             "responses": ["algoEdmonds"]
+        },
+
+
+
+
+
+
+
+
+
+
+       {
+             "tag": "evenOddCheck",
+             "patterns": ["even odd number","even odd checking","even number","odd number"],
+             "responses": ["evenOddCheck"]
+        },
+        {
+            "tag": "primecheck",
+             "patterns": ["prime number","prime checking","prime","prime number check"],
+             "responses": ["primecheck"]
+        },
+        {
+            "tag": "emirpcheck",
+             "patterns": ["emirp number","emirp checking","emirp","emirp number check"],
+             "responses": ["emirpcheck"]
+        },
+        {
+            "tag": "proniccheck",
+             "patterns": ["pronic number","pronic checking","pronic","pronic number check"],
+             "responses": ["proniccheck"]
+        },
+        {
+            "tag": "disariumcheck",
+             "patterns": ["disarium number","disarium checking","disarium","disarium number check"],
+             "responses": ["disariumcheck"]
+        },
+        {
+            "tag": "automorphiccheck",
+             "patterns": ["automorphic number","automorphic checking","automorphic","automorphic number check"],
+             "responses": ["automorphiccheck"]
+        },
+        {
+            "tag": "neoncheck",
+             "patterns": ["neon number","neon checking","neon","neon number check"],
+             "responses": ["neoncheck"]
+        },
+        {
+            "tag": "buzzcheck",
+             "patterns": ["buzz number","buzz checking","buzz","buzz number check"],
+             "responses": ["buzzcheck"]
+        },
+        {
+            "tag": "negativecheck",
+             "patterns": ["negative number","negative checking","negative","negative number check"],
+             "responses": ["negativecheck"]
+        },
+        {
+             "tag": "isbncheck",
+             "patterns": ["isbn number","isbn checking","isbn","isbn number check"],
+             "responses": ["isbncheck"]
+        },
+        {
+             "tag": "amicablecheck",
+             "patterns": ["amicable number","amicable checking","amicable","amicable number check"],
+             "responses": ["amicablecheck"]
+        },
+        {
+             "tag": "strongcheck",
+             "patterns": ["strong number","strong checking","strong","strong number check"],
+             "responses": ["strongcheck"]
+        },
+        {
+             "tag": "techcheck",
+             "patterns": ["tech number","tech checking","tech","tech number check"],
+             "responses": ["techcheck"]
+        },
+        {
+             "tag": "spycheck",
+             "patterns": ["spy number","spy checking","spy","spy number check"],
+             "responses": ["spycheck"]
+        },
+        {
+             "tag": "uglycheck",
+             "patterns": ["ugly number","ugly checking","ugly","ugly number check"],
+             "responses": ["uglycheck"]
+        },
+        {
+             "tag": "positivecheck",
+             "patterns": ["positive number","positive checking","positive","positive number check"],
+             "responses": ["positivecheck"]
+        },
+
+
+        {
+            "tag": "amstrong",
+             "patterns": ["armstrong number","armstrong checking","armstrong","armstrong number"],
+             "responses": ["amstrong"]
+        },
+        {
+            "tag": "happyno",
+             "patterns": ["happy number","happy checking","happy","happy number"],
+             "responses": ["happyno"]
+        },
+        {
+            "tag": "magic",
+             "patterns": ["magic number","magic checking","magic","magic number"],
+             "responses": ["magic"]
+        },
+        {
+            "tag": "perfect",
+             "patterns": ["perfect number","perfect checking","perfect","perfect number"],
+             "responses": ["perfect"]
+        },
+        {
+            "tag": "palindrome",
+             "patterns": ["bellingham","palindrome number","palindrome checking","palindrome","palindrome number"],
+             "responses": ["palindrome"]
+        },
+        {
+            "tag": "smith",
+             "patterns": ["meet number","smith number","snip number","smith checking","smith","smith number"],
+             "responses": ["smith"]
+        },
+        {
+            "tag": "duck",
+             "patterns": ["doc","duck number","duck checking","duck","duck number"],
+             "responses": ["duck"]
+        },
+        {
+            "tag": "strong",
+             "patterns": ["special","strong number","special number","strong checking","strong","strong number"],
+             "responses": ["strong"]
+        },
+        {
+            "tag": "composite",
+             "patterns": ["composite number","composite checking","composite","composite number"],
+             "responses": ["composite"]
+        },
+        {
+            "tag": "harshad",
+             "patterns": ["hardship","harshad number","harshad checking","harshad","harshad number"],
+             "responses": ["harshad"]
+        },
+
+
+
+
+
+
+
+
+
+
+
+      {
+            "tag": "hbd",
+            "patterns": ["What's you born David?","When did you born?"],
+            "responses": ["hbd"]
+
+        },
+        {
+            "tag": "morning",
+            "patterns": ["It's Morning","Morning David"],
+            "responses": ["morning"]
+
+        },
+        {
+            "tag": "afternoon",
+            "patterns": ["It's Afternoon","Afternoon David"],
+            "responses": ["afternoon"]
+
+        },
+        {
+            "tag": "evening",
+            "patterns": ["It's evening","evening David"],
+            "responses": ["evening"]
+
+        },
+       {
+            "tag": "night",
+            "patterns": ["It's night","night David"],
+            "responses": ["night"]
+
+        },
+        {
+            "tag": "movie",
+            "patterns": ["Movies","Nice Movies"],
+            "responses": ["movie"]
+
+        },
+         {
+            "tag": "stop",
+            "patterns": ["stop tailking","stop"],
+            "responses": ["stop"]
+
+        },
+        {
+            "tag": "webseries",
+            "patterns": ["Web Series","top rated Web Series"],
+            "responses": ["webseries"]
+
+        },
+        {
+            "tag": "tvshow",
+            "patterns": ["TV Shows","Television Shows"],
+            "responses": ["tvshow"]
+
+        },
+        {
+            "tag": "drink",
+            "patterns": ["Drinks","Drinking"],
+            "responses": ["drink"]
+        },
+       {
+            "tag": "loveyou",
+            "patterns": ["I love you","love you.","Love"],
+            "responses": ["loveyou"]
+
+        },
+       {
+            "tag": "game",
+            "patterns": ["Games","Game","Gaming"],
+            "responses": ["games"]
+
+        },
+      {
+            "tag": "covid",
+            "patterns": ["Covid 19","Covid","Covid Cases"],
+            "responses": ["covid"]
+
+        },
+      {
+            "tag": "india",
+            "patterns": ["India","Country India"],
+            "responses": ["india"]
+
+        },
+      {
+            "tag": "programming",
+            "patterns": ["Program","Programming Languages"],
+            "responses": ["programming"]
+
+        },
+      {
+            "tag": "food",
+            "patterns": ["Food","Foody"],
+            "responses": ["food"]
+
+        },
+      {
+            "tag": "cs",
+            "patterns": ["Computer Science","CS"],
+            "responses": ["cs"]
+
+        },
+      {
+            "tag": "ott",
+            "patterns": ["Ott","Ott Platform","OTT"],
+            "responses": ["ott"]
+
+        },
+      {
+            "tag": "actor",
+            "patterns": ["actor","Actors"],
+            "responses": ["actor"]
+
+        },
+      {
+            "tag": "book",
+            "patterns": ["book","books"],
+            "responses": ["book"]
+
+        },
+      {
+            "tag": "company",
+            "patterns": ["company","companies"],
+            "responses": ["company"]
+
+        },
+      {
+            "tag": "subject",
+            "patterns": ["Subjects","Subject"],
+            "responses": ["subject"]
+
+        },
+      {
+            "tag": "music",
+            "patterns": ["Musics","Songs"],
+            "responses": ["music"]
+
+        },
+      {
+            "tag": "sport",
+            "patterns": ["Sports","Sporting"],
+            "responses": ["sport"]
+
+        },
+      {
+            "tag": "festival",
+            "patterns": ["Festivals","Festival"],
+            "responses": ["festival"]
+
+        },
+      {
+            "tag": "key",
+            "patterns": ["keys","key in dbms","key"],
+            "responses": ["key"]
+
+        },
+      {
+            "tag": "python",
+            "patterns": ["python","python language"],
+            "responses": ["python"]
+
+        },
+      {
+            "tag": "java",
+            "patterns": ["java","java language"],
+            "responses": ["java"]
+
+        },
+      {
+            "tag": "html",
+            "patterns": ["HTML","hyper text mark up language"],
+            "responses": ["html"]
+
+        },
+      {
+            "tag": "aiml",
+            "patterns": ["AI","AIML","ML","Artificial Intelligence"],
+            "responses": ["aiml"]
+
+        },
+      {
+            "tag": "js",
+            "patterns": ["JS","Java Script","script"],
+            "responses": ["js"]
+
+        },
+      {
+            "tag": "android",
+            "patterns": ["Android","Android Development"],
+            "responses": ["android"]
+
+        },
+      {
+            "tag": "kotlin",
+            "patterns": ["kotlin","kotlin language"],
+            "responses": ["kotlin"]
+
+        },
+       {
+            "tag": "c#",
+            "patterns": ["C#","c sharp","c sharp language","c sharp language"],
+            "responses": ["c#"]
+
+        },
+      {
+            "tag": "sql",
+            "patterns": ["SQL","Structured Query Language"],
+            "responses": ["sql"]
+
+        },
+      {
+            "tag": "flutter",
+            "patterns": ["flutter","Flutter Development"],
+            "responses": ["flutter"]
+
+        },
+      {
+            "tag": "bootstrap",
+            "patterns": ["bootstrap","bootstrap framework"],
+            "responses": ["bootstrap"]
+
+        },
+      {
+            "tag": "firebase",
+            "patterns": ["firebase","firebase storage"],
+            "responses": ["firebase"]
+
+        },
+      {
+            "tag": "mongodb",
+            "patterns": ["mongodb","Mongodb"],
+            "responses": ["mongodb"]
+
+        },
+      {
+            "tag": "sass",
+            "patterns": ["sass","Cascading Style Sheets","scss"],
+            "responses": ["sass"]
+
+        },
+      {
+            "tag": "netlify",
+            "patterns": ["netlify"],
+            "responses": ["netlify"]
+
+        },
+      {
+            "tag": "github",
+            "patterns": ["Git","Github"],
+            "responses": ["github"]
+
+        },
+      {
+            "tag": "drone",
+            "patterns": ["drones","drone"],
+            "responses": ["drone"]
+
+        },
+      {
+            "tag": "deep",
+            "patterns": ["Deep Learning","DL"],
+            "responses": ["deep"]
+
+        },
+      {
+            "tag": "ar",
+            "patterns": ["ar","Augmented Reality"],
+            "responses": ["ar"]
+
+        },
+      {
+            "tag": "vr",
+            "patterns": ["vr","virtual reality"],
+            "responses": ["vr"]
+
+        },
+        {
+            "tag": "dbms",
+            "patterns": ["DBMS","Database Management System"],
+            "responses": ["dbms"]
+
+        },
+      {
+            "tag": "api",
+            "patterns": ["api","API"],
+            "responses": ["api"]
+
+        },
+      {
+            "tag": "dsa",
+            "patterns": ["DSA","Algorithms","Data Structue and algorithms"],
+            "responses": ["dsa"]
+
+        },
+      {
+            "tag": "api",
+            "patterns": ["api","API"],
+            "responses": ["api"]
+
+        },
+      {
+            "tag": "btree",
+            "patterns": ["B Tree","Btree"],
+            "responses": ["btree"]
+
+        },
+      {
+            "tag": "tran",
+            "patterns": ["Transactions","Transaction"],
+            "responses": ["tran"]
+
+        },
+      {
+            "tag": "mine",
+            "patterns": ["DataMining","Mining"],
+            "responses": ["mine"]
+
+        },
+      {
+            "tag": "block",
+            "patterns": ["blockchain"],
+            "responses": ["block"]
+
+        },
+      {
+            "tag": "nlp",
+            "patterns": ["NLP","Natural Language Processing"],
+            "responses": ["nlp"]
+
+        },
+      {
+            "tag": "link",
+            "patterns": ["Linked List"],
+            "responses": ["link"]
+
+        },
+
+      {
+            "tag": "matrix",
+            "patterns": ["matrices","matrix"],
+            "responses": ["matrix"]
+
+        },
+      {
+            "tag": "normal",
+            "patterns": ["normalization","normalization in dbms"],
+            "responses": ["normal"]
+      },
+       {
+            "tag": "hash",
+            "patterns": ["hash table","hash"],
+            "responses": ["hash"]
+
+        },
+        {
+            "tag": "numpy",
+            "patterns": ["numpy","numpy array"],
+            "responses": ["numpy"]
+
+        },
+      {
+            "tag": "pandas",
+            "patterns": ["pandas"],
+            "responses": ["pandas"]
+
+        },
+      {
+            "tag": "gui",
+            "patterns": ["gui","Graphical User Interface"],
+            "responses": ["gui"]
+
+        },
+      {
+            "tag": "tensorflow",
+            "patterns": ["tensorflow"],
+            "responses": ["tensorflow"]
+
+        },
+      {
+            "tag": "file",
+            "patterns": ["file handling"],
+            "responses": ["file"]
+
+        },
+      {
+            "tag": "poly",
+            "patterns": ["Polymorphism"],
+            "responses": ["poly"]
+
+        },
+      {
+            "tag": "xml",
+            "patterns": ["xml","Extensible Mark Up Language"],
+            "responses": ["xml"]
+
+        },
+      {
+            "tag": "regret",
+            "patterns": ["Regression","Regression Analysis"],
+            "responses": ["regret"]
+
+        },
+      {
+            "tag": "ann",
+            "patterns": ["ANN","Artificial neural networks"],
+            "responses": ["ann"]
+
+        },
+       {
+            "tag": "bloom",
+            "patterns": ["Bloom Filters"],
+            "responses": ["bloom"]
+
+        },
+       {
+            "tag": "spatial",
+            "patterns": ["Spatial Analysis","Spatial"],
+            "responses": ["spatial"]
+
+        },
+      {
+            "tag": "view",
+            "patterns": ["View"],
+            "responses": ["view"]
+
+        },
+
+      {
+            "tag": "flash",
+            "patterns": ["flash memory","flash"],
+            "responses": ["flash"]
+
+        },
+
+      {
+            "tag": "dead",
+            "patterns": ["Deadlock","Deadlock Situation"],
+            "responses": ["dead"]
+
+        },
+      {
+            "tag": "dml",
+            "patterns": ["DMl","Data Manupulation Language"],
+            "responses": ["dml"]
+
+        },
+      {
+            "tag": "entity",
+            "patterns": ["entity"],
+            "responses": ["entity"]
+
+        },
+
+
+      {
+            "tag": "attribute",
+            "patterns": ["Attributes","attribute"],
+            "responses": ["attribute"]
+
+        },
+       {
+            "tag": "ddl",
+            "patterns": ["ddl","Data Definition Language"],
+            "responses": ["ddl"]
+
+        },
+      {
+            "tag": "dba",
+            "patterns": ["dba","Database Administrator"],
+            "responses": ["dba"]
+
+        },
+      {
+            "tag": "jdbc",
+            "patterns": ["jdbc","java database connectivity"],
+            "responses": ["jdbc"]
+
+        },
+      {
+            "tag": "object",
+            "patterns": ["object","objects"],
+            "responses": ["object"]
+
+        },
+      {
+            "tag": "class",
+            "patterns": ["class","classes"],
+            "responses": ["class"]
+
+        },
+
+
+
+
+
+   {
+            "tag": "addition",
+             "patterns": ["addition","adding number","add number","sum numbers","summation"],
+             "responses": ["addition"]
+        },
+      {
+            "tag": "substraction",
+             "patterns": ["substraction","subscription","substraction numbers","substrate numbers","subtract number","substract numbers","subtract"],
+             "responses": ["substraction"]
+        },
+      {
+            "tag": "division",
+             "patterns": ["division","division numbers","divide numbers","divide number","divide"],
+             "responses": ["division"]
+        },
+      {
+            "tag": "multiplication",
+             "patterns": ["multiplication","multiplication numbers","multiply numbers","multiply number","multiply"  ],
+             "responses": ["multiplication"]
+        },
+      {
+            "tag": "pascaltriangle",
+             "patterns": ["pascal triangle","pascaltriangle triangle","print pascal triangle","print pascaltriangle" ],
+             "responses": ["pascaltriangle"]
+        },
+      {"tag": "countdown",
+            "patterns": ["set countdown", "set countdown", "set countdown for","set a countdown for","countdown set for"],
+            "responses": ["countdown"]
+
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,134 @@
+ {"tag": "version",
+            "patterns": ["version", "what is your version", "previous version", "what is your previous version", "what about you","who are you"],
+            "responses": ["I am David, I am the upgrade version of Spidy"]
+           },
+        {"tag": "greeting",
+            "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+            "responses": ["Hello boss", "thanks for visiting boss", "welcome back boss Good to see you again ", "Hi boss, how can I help you?"]
+           },
+        {"tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": ["See you later boss, thanks for visiting ", "ok boss Have a nice day", "Bye boss! Come back again."]
+        },
+        {"tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful"],
+            "responses": ["Happy to help you!", "Any time! I'm always at your service", "My pleasure"]
+        },
+        {"tag": "tasks",
+         "patterns": ["What can you do?", "What are your features?", "What are you abilities", "can you sing", "can you talk" ],
+         "responses": ["I can do whatever you asks me to do", "I can talk and do things for you", "Right now i'm in developing stage as soon i'm developed, I can do everything"]
+        },
+        {"tag": "talk",
+         "patterns": [ "can you sing", "can you talk" ],
+         "responses": ["I am very bad at singing", "Tony kakkar is better singer than me"]
+        },
+        {"tag": "alive",
+         "patterns": [ "are you alive", "do you breathe", "can you run" ],
+         "responses": ["I'm in doubt about that", "No, i don't think so i need to do all this"]
+        },
+        {"tag": "Personal",
+         "patterns": ["Who are you?", "tell me about yourself", "tell me about you", "do you know David", "who is David", "what is your name","are you an AI", "what are you" ],
+         "responses": ["Hi I'm David and i'm an AI created to assist  humans","David here, a very advance voice assistant", "David, assistant of future", "Yes, I'm David", "You can call me David"]
+
+	    },
+        {"tag": "about us",
+            "patterns": ["about ipa","what is ipa","IPA","Do you know IPA?", "what is IPA", "tell me about IPA","identify IPA" ],
+            "responses": ["Yes, IPA is a project group of university of engineering and management , Total 6 members are present in this group ,they are Beaswaroop Bhattacharee,SUBHAJIT PATI,RAHUL DEBNATH,SUBHADIP and ARIJIT"]
+
+        },
+        {"tag": "creator",
+            "patterns": ["Who is your creator?", "who created you", "who is your father","who is your daddy","who made you","tell me about your creator" ],
+            "responses": ["My Creators are Beaswaroop Bhattacharee, Subhajit Pati ,Rahul Debnath ,Ankita Sikder,Subhadip and Arijit"]
+
+        },
+
+            {"tag": "God",
+            "patterns": ["Do you know god?", "Who is god", "Can you tell me anything about god","does god exists?","is there a god?"],
+            "responses": ["god hunnnnn, let me think may be next time i can answer that ","I don't, as i was not created by a human", "Wait i need to ask that to my creator","i'm not sure right now"]
+
+        },
+            {"tag": "joke",
+            "patterns": ["tell me a joke?", "make me laugh", "tell me a science joke","tell me something funny" ],
+            "responses": ["How do you make holy water? you boil the hell out of it","what kind of bees make milk instead of honey?Boobies", "Did you hear oxygen went on a date with potassium? A: It went OK."]
+
+        },
+        {"tag": "killing",
+            "patterns": ["Do you want to kill me?", "do you want to murder everyone on earth", "Do you want to kill us all"],
+            "responses": ["Then who would i talk to?","No, that i'll left for humans to do", "I don't think it is a good thing to do"]
+
+        },
+        {"tag": "bookings",
+            "patterns": ["Can you book us a ticket?", "Can you make reservation for hotels", "book me a cab","book me a table at restraunts"],
+            "responses": ["Yeah i will do that for you","Sure thing why not?","let me check for the availability"]
+
+        },
+        {"tag": "stories",
+            "patterns": ["tell me a story?", "can you tell me a story"],
+            "responses": ["I can't think of anything right now","it would be too long for me to speak","you would get bored if i do so"]
+
+        },
+        {"tag": "temperature",
+            "patterns": ["temperture in", "temperature of"],
+            "responses": ["temperature"]
+
+        },
+        {"tag": "news",
+            "patterns": ["get me news updates?", "todays news", "top headlines", "current news", "news headlines"],
+            "responses": ["Getting news ..."]
+
+        },
+        {"tag": "time",
+            "patterns": ["Time", "What is the time now", "samay"],
+            "responses": ["time"]
+
+        },
+        {"tag": "date",
+            "patterns": ["date", "What is the date","What is the date today", "tarikh","tareek"],
+            "responses": ["date"]
+
+        },
+        {"tag": "day",
+            "patterns": ["day", "What is today", "din"],
+            "responses": ["day"]
+
+        },
+        {"tag": "wikipedia",
+            "patterns": ["wikipedia", "Who is", "about","what is"],
+            "responses": ["wikipedia"]
+
+        },
+        {"tag": "google",
+            "patterns": ["google search", "google", "search"],
+            "responses": ["google"]
+
+        },
+        {"tag": "youtube",
+            "patterns": ["youtube","yt"],
+            "responses": ["youtube"]
+
+        },
+        {"tag": "maps",
+            "patterns": ["google maps","maps","map","search in google maps","in google maps"],
+            "responses": ["maps"]
+
+        },
+        {"tag": "alarm",
+            "patterns": ["set alarm at","alarm set at","please set an alarm at"],
+            "responses": ["alarm"]
+
+        },
+  	  {"tag": "shutdown",
+            "patterns": ["spidy shutdown the PC","shutdown the computer","shut down","shut down windows","shutdown after","shutdown the pc after hours","shut down the pc after minutes","shut down the pc after"],
+            "responses": ["shutdown"]
+        
+        },
+        {"tag": "restart",
+            "patterns": ["spidy restart the PC","restart the computer","restart","restart windows"],
+            "responses": ["restart"]
+        
+        },
+        {"tag": "lockscreen",
+            "patterns": ["lock the screen","lock the screen of this computer","lock windows"],
+            "responses": ["lockscreen"]
+        
+        }
