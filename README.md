@@ -1,6 +1,6 @@
 # Proj-4-UEMK-David-Voice-Assistant :open_mouth: :running: :star2:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Natural%20Language-Processing-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/bag%20of-words-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/json-emotions-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/deep-learning-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Graphical%20-UI-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/package-Tkinter-succe)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/pyttsx3-module-success)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Natural%20Language-Processing-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/bag%20of-words-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/json-emotions-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/deep-learning-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Graphical%20-UI-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/package-Tkinter-succe)](https://shields.io/) 
 <br>
 
 ***This new David Voice Assistant using Natural Language Processing is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
@@ -85,11 +85,20 @@ Automation should be added to for more convenience.
 
 ```bash
 DAVID-VOICE-ASSISTANT
-    ├── snake_game.py
-    ├── snake_gui.py
-    ├── highscore.txt
-    ├── scorecard.txt
-    └── mp3 songs
+    ├── Train.py
+    ├── Test.py
+    ├── Say.py
+    ├── NCS1.py
+    ├── NCS2.py
+    ├── listen.py
+    ├── CGA1.py
+    ├── CGA2.py
+    ├── Algo1.py
+    ├── Algo2.py
+    ├── Casualtalks.py
+    ├── technicaltalks.py
+    ├── David.py
+    └── David_gui.py
 ```
     
 ## Screenshots :point_down: 
