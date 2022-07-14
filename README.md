@@ -107,7 +107,7 @@ DAVID-VOICE-ASSISTANT
 
 <div align="center">
     
-<a href="david0.png"><img src="david0.png" width="280" height= "400"></a> <a href="davidd.png"><img src="davidd.png" width="280" height= "400"></a> <a href="davi.png"><img src="davi.png" width="280" height= "400"></a>
+<a href="david0.png"><img src="david0.png" width="200" height= "400"></a> <a href="davidd.png"><img src="davidd.png" width="200" height= "400"></a> <a href="davi.png"><img src="davi.png" width="200" height= "400"></a>
     
 <a href="david.png"><img src="david.png" width="400" height= "280"></a> <a href="david1.png"><img src="david1.png" width="400" height= "280"></a>
 
