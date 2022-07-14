@@ -68,6 +68,8 @@ exit.
 
 </div>
 
+### :point_right: <a href="https://drive.google.com/file/d/1iSP2SuXuZOaPTGCE2pPKsgEIwaXckAPY/view">Click here to read documentation</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
