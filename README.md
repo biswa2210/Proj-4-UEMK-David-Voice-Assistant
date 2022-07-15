@@ -68,6 +68,10 @@ exit.
 
 </div>
 
+## DAVID VOICE ASSISTANT DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=ls2WjgyJicg&list=PL0lbDlMJ1h4jrRuH-A6njkMA3iYmRhxIO&index=5">Click here to watch</a>
+
+## AIML-DL PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=K0AAxrbzLFg&list=PL0lbDlMJ1h4jrRuH-A6njkMA3iYmRhxIO">Click here to watch</a>
+
 ### :point_right: <a href="https://drive.google.com/file/d/1iSP2SuXuZOaPTGCE2pPKsgEIwaXckAPY/view">Click here to read documentation</a>
 
 ## Purpose :point_down:
